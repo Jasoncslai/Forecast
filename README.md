@@ -19,15 +19,10 @@ This project aims to forecast the weekly directional movement of the S&P 500 ind
 - **Existing Indicators**: The dataset already includes relevant technical indicators such as:
   - Moving Averages (e.g., 5-day, 10-day)
   - Relative Strength Index (RSI)
-  - Moving Average Convergence Divergence (MACD)
-  - Bollinger Bands
-  
+
 - **Create Additional Features**:
   - **Golden Cross**: A bullish signal that occurs when a shorter-term moving average crosses above a longer-term moving average.
   - **Dead Cross**: A bearish signal that occurs when a shorter-term moving average crosses below a longer-term moving average.
-  - Weekly high, low, and volume.
-  - Lagged features (previous week’s closing price).
-  - Daily returns as a percentage.
 
 #### 3. Define Target Variable
 - Implement the logic to define the directional movement:
@@ -51,23 +46,5 @@ This project aims to forecast the weekly directional movement of the S&P 500 ind
 - Visualize the forecasted vs. actual movements.
 
 #### 8. Documentation
-- Document your methodology, findings, and conclusions.
-- Ensure that your code is well-commented and organized.
+- Document the methodology, findings, and conclusions.
 
-#### 9. Presentation Preparation
-- Prepare slides or a report summarizing your project.
-- Highlight key findings and insights.
-
-#### 10. Future Work
-- Suggest potential improvements or further research directions.
-
-### Getting Started
-1. Clone the repository.
-2. Install the required libraries (if applicable).
-3. Follow the instructions in the documentation to run the project.
-
-### Acknowledgements
-- [List any resources, libraries, or contributors that helped you with the project.]
-
-### License
-- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
