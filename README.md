@@ -1,4 +1,4 @@
-# Forecast
+# Econ 4305 Term Project
 
 ## Forecasting Weekly Directional Movement of the S&P 500 Using Technical Indicators
 
